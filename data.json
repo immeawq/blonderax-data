@@ -30,18 +30,6 @@
           "title": "1M",
           "desc": "เฉพาะพรีออเดอร์เท่านั้น",
           "price": "40 THB"
-        },
-        {
-      "name": "4KING SOCUTE",
-      "icon": "https://cdn.discordapp.com/attachments/1228013520034074654/1338223015766392972/Logo_1.png?ex=6a017e8d&is=6a002d0d&hm=60d684d504fbf98e216991d67f327691790b6dca4438451f653891d30665693c&",
-      "status": "Offline",
-      "statusColor": "#8b8b8b",
-      "stock": "∞",
-      "prices": [
-        {
-          "title": "1M",
-          "desc": "เฉพาะพรีออเดอร์เท่านั้น",
-          "price": "40 THB"
         }
       ]
     }
