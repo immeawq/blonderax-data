@@ -30,11 +30,11 @@
       "icon": "https://cdn.discordapp.com/attachments/1228013520034074654/1338223015766392972/Logo_1.png?ex=6a02d00d&is=6a017e8d&hm=274573a59e478fe477fe5c765a511636f5118347921378673f671e6fee46efd8&",
       "status": "Offline",
       "statusColor": "#8b8b8b",
-      "stock": "Pre-Order Only",
+      "stock": "Pre-Order",
       "prices": [
         {
-          "title": "1M (Pre-Order)",
-          "desc": "เฉพาะพรีออเดอร์เท่านั้น",
+          "title": "1M",
+          "desc": "พรีออเดอร์เท่านั้น",
           "price": "40 THB"
         }
       ]
