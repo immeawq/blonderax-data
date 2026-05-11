@@ -14,14 +14,14 @@
       "stock": "1,000,000",
       "prices": [
         {
-          "title": "100K",
-          "desc": "จัดส่งทันที (Instant)",
-          "price": "19 THB"
-        },
-        {
           "title": "1M",
           "desc": "จัดส่งทันที (Instant)",
           "price": "190 THB"
+        },
+        {
+          "title": "100K",
+          "desc": "จัดส่งทันที (Instant)",
+          "price": "19 THB"
         }
       ]
     },
