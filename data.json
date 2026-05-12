@@ -8,7 +8,7 @@
   "servers": [
     {
       "name": "SHARK COMMUNITY",
-      "icon": "https://cdn.discordapp.com/attachments/1473600607410589812/1475170778743050361/LOGO_Shark_Community_OK02-01.png?ex=6a0206d9&is=6a00b559&hm=185ec2083f8548c1b51b7a406b8ffc79cba6f8f05f111b2266cfff43f44b648e&",
+      "icon": "https://img1.pic.in.th/images/LOGO_Shark_Community_OK02-01.png",
       "status": "Online",
       "statusColor": "#ff1f1f",
       "stock": "1,000,000",
@@ -27,7 +27,7 @@
     },
     {
       "name": "4KING SOCUTE",
-      "icon": "https://cdn.discordapp.com/attachments/1228013520034074654/1338223015766392972/Logo_1.png?ex=6a02d00d&is=6a017e8d&hm=274573a59e478fe477fe5c765a511636f5118347921378673f671e6fee46efd8&",
+      "icon": "https://img1.pic.in.th/images/Logo_1.png",
       "status": "Offline",
       "statusColor": "#8b8b8b",
       "stock": "Pre-Order",
