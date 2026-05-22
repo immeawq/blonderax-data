@@ -11,17 +11,17 @@
       "icon": "https://img1.pic.in.th/images/LOGO_Shark_Community_OK02-01.png",
       "status": "Online",
       "statusColor": "#ff1f1f",
-      "stock": "หมดชั่วคราว",
+      "stock": "2M",
       "prices": [
         {
           "title": "1M",
           "desc": "จัดส่งทันที (Instant)",
-          "price": "160 THB"
+          "price": "150 THB"
         },
         {
           "title": "100K",
           "desc": "จัดส่งทันที (Instant)",
-          "price": "16 THB"
+          "price": "15 THB"
         }
       ]
     },
